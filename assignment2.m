@@ -582,4 +582,3 @@ end
 figure(14)
 plot(1:num,(-1)*current_density,'m')
 title('Current vs Conductivity')
-
